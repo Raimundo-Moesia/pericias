@@ -1,5 +1,5 @@
 ```markdown
-## **README.md tipos de pericias e sua Aplicação** 
+## **README.md tipos de pericias e sua Aplicação. Imersão DEV com Google Gemini ** 
 
 ###  **O que faz essa aplicação?**
 
